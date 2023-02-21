@@ -1,0 +1,44 @@
+{
+     "users": [
+          {
+               "id": "1",
+               "name": "Ram",
+               "score": 100
+          },
+          {
+               "id": "1",
+               "name": "Ram",
+               "score": 100
+          },
+          {
+               "id": "2",
+               "name": "Raju",
+               "score": 100
+          },
+          {
+               "id": "3",
+               "name": "Shyam",
+               "score": 100
+          },
+          {
+               "id": "4",
+               "name": "Neelu",
+               "score": 100
+          },
+          {
+               "id": "5",
+               "name": "Beelu",
+               "score": 100
+          },
+          {
+               "id": "6",
+               "name": "Teelu",
+               "score": 100
+          },
+          {
+               "id": "7",
+               "name": "Salu",
+               "score": 100
+          }
+     ]
+}
